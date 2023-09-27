@@ -3,7 +3,7 @@
 
 This repository is mainly used to achieve instance segmentation of coal dust particles and perform relevant particle size distribution statistics.
 
-<img src="D:\Desktop\a\example.jpg" style="zoom:67%;" />
+
 
 
 ## Environment construction
