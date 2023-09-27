@@ -3,7 +3,7 @@
 
 This repository is mainly used to achieve instance segmentation of coal dust particles and perform relevant particle size distribution statistics.
 
-
+![image](https://github.com/disciplinejzx/Characterization-of-PSD-of-coal-dust/blob/main/README_IMG.jpg))
 
 
 ## Environment construction
